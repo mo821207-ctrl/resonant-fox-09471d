@@ -1,1 +1,0 @@
-const C='aracer-unified-v27',A=['./','index.html','app.js','manifest.webmanifest','icons/icon-180.png','icons/icon-192.png','icons/icon-512.png','sample.log'];self.addEventListener('install',e=>e.waitUntil(caches.open(C).then(c=>c.addAll(A))));self.addEventListener('fetch',e=>e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request))));
