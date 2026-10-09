@@ -1,1 +1,28 @@
-{"name":"aRacer Unified Analysis Platform v2.7","short_name":"aRacer Unified","start_url":"./","display":"standalone","background_color":"#071018","theme_color":"#071018","orientation":"portrait-primary","icons":[{"src":"icons/icon-180.png","sizes":"180x180","type":"image/png"},{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "aRacer Pro 統一分析平台",
+  "short_name": "aRacer 分析",
+  "lang": "zh-Hant-TW",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071018",
+  "theme_color": "#071018",
+  "icons": [
+    {
+      "src": "icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
